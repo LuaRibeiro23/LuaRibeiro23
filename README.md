@@ -1,5 +1,5 @@
-# Olá, Devs!! Seja bem vindos.✨
-## Meu nome é Luana, tenho 23 anos e moro em São Paulo. Sou apaixonada por tecnologia e atualmente estudo programação.
+# Olá!! Seja bem vindos.✨
+## Meu nome é Luana, tenho 23 anos e moro em São Paulo. Atualmente sou estudante de programação.
 
 
 ## Ferramentas e Tecnologias:💻
