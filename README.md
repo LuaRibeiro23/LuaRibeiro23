@@ -1,5 +1,5 @@
 # Olá!! Seja bem vindos.✨
-## Meu nome é Luana, tenho 23 anos e moro em São Paulo. Atualmente sou estudante de programação.
+## Meu nome é Luana, moro em São Paulo. Atualmente sou estudante de programação.
 
 
 ## Ferramentas e Tecnologias:💻
