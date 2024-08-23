@@ -1,6 +1,5 @@
 # Olá!! Seja bem vindos.✨
-## Meu nome é Luana, moro em São Paulo. Atualmente sou estudante de programação.
-
+## Meu nome é Luana, moro em São Paulo. 
 
 ## Ferramentas e Tecnologias:💻
 
